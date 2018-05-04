@@ -4,7 +4,7 @@
 
 **Dependencies:**
  * [lib_savelogs](https://github.com/Lunovox/lib_savelogs) (optional)
-  There are no dependencies
+ * There are no dependencies
 
 **Licence:**
  * [GNU AGPL](https://github.com/Lunovox/lib_checkinventory/blob/master/LICENSE)
