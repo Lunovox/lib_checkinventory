@@ -124,6 +124,9 @@ libCheckInventory.doCheckPlayerInventary = function(playername, param)
 				.."label[0,5;"..libCheckInventory.translate("Inventory of '%s'"):format(playername).."]"
 				--.."list[current_player;main;0,5;8,4;]"
 				.."list[player:"..playername..";main;0,5.5;8,4;]"
+				
+				.."listring[detached:"..targetname..";main]"
+				.."listring[player:"..playername..";main]"
 			)
 			return true
 		else
