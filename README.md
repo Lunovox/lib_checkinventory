@@ -13,4 +13,4 @@
  * [Lunovox Heavenfinder](https://libreplanet.org/wiki/User:Lunovox)
  
 **Commands:**
- * ````/checkinventory <playername>```` or ````/ci <playername>````← Checks the inventory of the target player. Need the 'changeinventory' privilege to change the inventory.
+ * ````/checkinventory <playername>```` or ````/ci <playername>````← Checks the inventory of the target player. Need the '````changeinventory````' privilege to change the inventory.
