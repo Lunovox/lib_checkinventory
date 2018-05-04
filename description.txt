@@ -1,0 +1,15 @@
+Lets you watch and control another player's inventory!
+
+Licence: 
+ * GNU AGPL: https://pt.wikipedia.org/wiki/GNU_Affero_General_Public_License
+
+Developers:
+	Programador: 
+ 		* Lunovox <https://libreplanet.org/wiki/User:Lunovox>
+	Testadores: 
+		* Lucas Undertaker <lucasmacho22@gmail.com>
+
+Summary:
+ * CHEAT: https://pt.wikipedia.org/wiki/Cheat
+ * LAG: https://pt.wikipedia.org/wiki/Lag
+

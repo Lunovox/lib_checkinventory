@@ -1,0 +1,16 @@
+#Transdutor: Lunovox <https://libreplanet.org/wiki/User:Lunovox>
+
+#------------------------------------------------------------------------------------------------------------------------
+
+Lets you watch another player's inventory!=Deixa você verificar o inventário de outro jogado!
+Lets you control another player's inventory!=Deixa você controlar o inventário de outro jogado!
+Checks the inventory of the target player.=Verifica o inventário do jogador.
+You do not have the 'changeinventory' privilege to move items.=Você não tem o privilégio 'changeinventory' para movimentar itens.
+You do not have the 'changeinventory' privilege to place items.=Você não tem o privilégio 'changeinventory' para adicionar itens.
+You do not have the 'changeinventory' privilege to remove items.=Você não tem o privilégio 'changeinventory' para retirar itens.
+The player '%s' has the items movimented in inventory per '%s'. %s=O jogador '%s' teve seus itens movimentados no inventário por '%s'. %s
+The player '%s' has placed %02d x '%s' in inventory per '%s'. %s=O jogador '%s' teve adicionado %02d x '%s' ao inventário por '%s'. %s
+The player '%s' has removed %02d x '%s' in inventory per '%s'. %s=O jogador '%s' teve retirado %02d x '%s' ao inventário por '%s'. %s
+The player '%s' tried to see the '%s' inventory that was offline. %s=O jogador '%s' tentou ver o inventário de '%s' que estava desconectado. %s
+The player '%s' is offline!=O jogador '%s' está desconectado!
+Inventory of '%s'=Inventário de '%s'
