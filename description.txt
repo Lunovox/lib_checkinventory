@@ -3,6 +3,10 @@ Lets you watch and control another player's inventory!
 Licence: 
  * GNU AGPL: https://pt.wikipedia.org/wiki/GNU_Affero_General_Public_License
 
+Dependencies:
+ * lib_savelogs (optional) → https://github.com/Lunovox/lib_savelogs
+  There are no dependencies
+
 Developers:
 	Programador: 
  		* Lunovox <https://libreplanet.org/wiki/User:Lunovox>
@@ -12,4 +16,7 @@ Developers:
 Summary:
  * CHEAT: https://pt.wikipedia.org/wiki/Cheat
  * LAG: https://pt.wikipedia.org/wiki/Lag
+
+**Commands:**
+ * ````/checkinventory <playername>```` or ````/ci <playername>````← Checks the inventory of the target player. Need the 'changeinventory' privilege to change the inventory.
 
