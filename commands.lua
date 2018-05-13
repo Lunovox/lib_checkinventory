@@ -1,5 +1,5 @@
 
-if type(libCheckInventory)=="nil" then
+if not libCheckInventory then
 	libCheckInventory = {}
 end
 libCheckInventory.translate = rawget(_G, "intllib") and intllib.Getter() or function(s) return s end
